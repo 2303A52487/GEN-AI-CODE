@@ -1,1 +1,1 @@
-# GEN-AI-CODE
+# Medical Report Summarizer
